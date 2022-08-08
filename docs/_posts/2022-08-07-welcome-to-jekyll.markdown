@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to BARN's FPV Drone Notes"
+title:  "Welcome to Jekyll"
 date:   2022-08-07 18:32:47 -0700
 categories: jekyll update
 ---

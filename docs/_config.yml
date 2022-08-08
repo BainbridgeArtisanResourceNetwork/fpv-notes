@@ -22,8 +22,9 @@ title: FPV Drones - Building, Configuring, Components, Etc.
 email: rgordon@bainbridgebarn.org
 description: >- # this means to ignore newlines until "baseurl:"
    A resource for FPV Drone classes at BARN.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://bainbridgeartisanresourcenetwork/fpv-notes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/fpv-notes" # the subpath of your site, e.g. /blog
+#url: "https://bainbridgeartisanresourcenetwork/fpv-notes.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bainbrigeartisanresourcenetwork.github.io/"
 
 twitter_username: ""
 github_username:  bainbridgeartisanresourcenetwork
