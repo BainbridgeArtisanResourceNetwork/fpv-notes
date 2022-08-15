@@ -9,7 +9,7 @@ This controller now ships with EdgeTX firmware, replacing OpenTX on earlier mode
 because of this. For that reason, I've added the link to the firmware distribution page.
 
   * [https://www.radiomasterrc.com/products/tx16s-mark-ii-radio-controller]
-  * [https://https://www.Edge-tx.org]
+  * [https://www.Edge-tx.org]
   * [https://cdn.shopify.com/s/files/1/0609/8324/7079/files/TX16S_Quick_Start_Guide.pdf?v=1639375197] 
   * [https://cdn.shopify.com/s/files/1/0609/8324/7079/files/TX16S_User_Manual.pdf?v=1639375198]
 
